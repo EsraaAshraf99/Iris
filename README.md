@@ -1,2 +1,2 @@
 # Iris
-predict number of clusters
+predict optimum number of clusters and represent it visually
